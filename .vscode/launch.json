@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "loops.Ex4_ParEImpar",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "loops.Ex3_MaiorEMedia",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Nota",
+            "request": "launch",
+            "mainClass": "loops.Ex2_Nota",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "loops.Ex1_NomeEIdade",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        }
+    ]
+}
