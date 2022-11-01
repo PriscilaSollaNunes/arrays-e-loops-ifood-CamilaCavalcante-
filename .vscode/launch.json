@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "arrays.Ex4_ArrayMultidimensional",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "arrays.Ex3_NumerosAleatorios",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "arrays.Ex2_Consoantes",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "arrays.Ex1_OrdemInversa",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "loops.Ex6_Fatorial",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "loops.Ex5_Tabuada",
+            "projectName": "arrays-e-loops-ifood-CamilaCavalcante-_fe20dcb9"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex4_ParEImpar",
             "request": "launch",
             "mainClass": "loops.Ex4_ParEImpar",
